@@ -7,3 +7,7 @@ This Analysis seeks to understand some key highlights about AFCON since its ince
 ![alt text](<Afcon Dashboard.png>)
 
 From the dashboard, we could see information such as number of African Countries to have ever participated in the competition, Countries who have won the finals the most, countries who have scored own goals the most and many more interesting insights.
+
+More information can be seen in the below report:
+
+![alt text](<Screenshot (39).png>)
